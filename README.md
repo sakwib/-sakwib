@@ -1,14 +1,24 @@
 ![I am Full Stack Web Developer](https://media.licdn.com/dms/image/C5616AQFu5HN6g5Bpog/profile-displaybackgroundimage-shrink_350_1400/0/1603751671591?e=1683763200&v=beta&t=65l8aStku6LJOi-SRFIJAKpXLvbY5X0SwFl7LM0FRBw)
 
-### Hi there 👋, my gorgeous friend
+### Hi there my gorgeous friend 👋
 #### I am Full Stack Web Developer
 
 
 I am an accomplished full-stack web developer with vast experience in both back and front-end website development tools. I love to solve real-world problems. I am a professional full-stack developer with a passion for building applications. I enjoy working with React, Express js, Node.js, & MongoDB. I'm working as a freelancer on Upwork and Fiverr.
 
-Skills: REACT / Node js / Express js / Mongo DB / Typescript/ HTML / CSS
+👨‍💻 Skills & Experiance:
+ - ✅ HTML , CSS & Java Script
+ - ✅ React js
+ - ✅ Node js
+ - ✅ Express js
+ - ✅ Mongo DB & PostgreSQL
+ - ✅ Typescript
 
-- 🌱 I’m currently learning MERN Stack 
+ 👨‍💻 Working in:
+  - ✅ Upwork
+  - ✅ Fiverr
+
+
 - 🤔 I’m looking for help with Problem Solving  
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: n.sakwib@gmail.com 
