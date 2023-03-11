@@ -6,6 +6,7 @@
 
 I am an accomplished full-stack web developer with vast experience in both back and front-end website development tools. I love to solve real-world problems. I am a professional full-stack developer with a passion for building applications. I enjoy working with React, Express js, Node.js, & MongoDB. I'm working as a freelancer on Upwork and Fiverr.
 
+
 👨‍💻 Skills & Experiance:
  - ✅ HTML , CSS & Java Script
  - ✅ React js
@@ -14,16 +15,15 @@ I am an accomplished full-stack web developer with vast experience in both back 
  - ✅ Mongo DB & PostgreSQL
  - ✅ Typescript
 
- 👨‍💻 Working in:
+
+ 👨‍💻 Works and Activities:
   - ✅ Upwork
   - ✅ Fiverr
-
-
-- 🤔 I’m looking for help with Problem Solving  
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: n.sakwib@gmail.com 
-- 😄 Pronouns: devsakwib 
-- ⚡ Fun fact: Try to enhoy coding and solving Problems 
+  - 🤔 I’m looking for help with Problem Solving
+  - 💬 Ask me about Web Development
+  - 📫 How to reach me: n.sakwib@gmail.com 
+  - 😄 Pronouns: devsakwib 
+  - ⚡ Fun fact: Try to enhoy coding and solving Problems   
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sakwib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sakwib//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sakwib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nazmus.sakwib//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://mobile.twitter.com/devsakwib)  
