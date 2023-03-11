@@ -6,7 +6,6 @@
 
 I am an accomplished full-stack web developer with vast experience in both back and front-end website development tools. I love to solve real-world problems. I am a professional full-stack developer with a passion for building applications. I enjoy working with React, Express js, Node.js, & MongoDB. I'm working as a freelancer on Upwork and Fiverr.
 
-
 👨‍💻 Skills & Experiance:
  - ✅ HTML , CSS & Java Script
  - ✅ React js
